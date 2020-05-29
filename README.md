@@ -1,6 +1,7 @@
 # ArcFaceWrapper
 
-C# 人脸识别 
+C# 人脸识别演示
+
 基于ArcSoft Face Engine SDK 2.2 C++
 
 配置文件 app.config
